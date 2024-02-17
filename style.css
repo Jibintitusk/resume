@@ -1,0 +1,15 @@
+h1,h2,.details,.hobbies{
+    text-align: center;
+}
+
+footer{
+text-align: center;
+}
+
+img{
+    height: 100px;
+    width: 90px;
+    display: block;
+    padding-left: 350px;
+    
+}
